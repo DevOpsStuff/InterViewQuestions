@@ -37,7 +37,7 @@
 
   - Send the DNS Request
     
-   ( coming soon...)
+   [More Info on DNS queries](https://github.com/DevOpsStuff/Networking/blob/master/DNS.md)
 
 
  ### Next TCP Three way handshake happens.
